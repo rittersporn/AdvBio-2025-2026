@@ -10,6 +10,6 @@ https://public.yoda.uu.nl/science/UU01/S5FCM9.html
 2. Open the script in RStudio, put the script in your working directory
 3. Create folder "GWAS_objects" in the working directory and download there the SNP matrix file 'obj_all.ALTREF_SNP_matrix_sat_2024_R4.3.2.out' from the repository https://science.public.data.uu.nl/vault-lettuceknow-publications/Dijkhuizen_etal_2025%5B1740041109%5D/original/GWAS_objects/
 4. Create folder "GWAS_sat" in the working directory - results of the GWAS will be saved there
-5. Create folder "GWAS_input" in the working directory - the phenotype input file should be put there. Please use the provided template file.
+5. Create folder "GWAS_input" in the working directory - the phenotype input file should be saved here. Please use the provided template Excel file. After you filled in the Excel file, save the Raw_data tab as the tsv file "GWAS-trait-input-example_v2.tsv".
 6. Check sections in the script; if unclear ask the instructor for explanations.
 7. Run the script. You might need to install the libraries first. 
