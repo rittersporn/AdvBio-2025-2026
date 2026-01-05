@@ -470,7 +470,7 @@ accessions <- c("LK001", "LK002", "LK003", "LK004", "LK005", "LK006", "LK007", "
 ############################################
 ## Load phenotype table and process it for GWAS
 ############################################
-sat.full <- read.table("GWAS-trait-input-example_v2.tsv", header = TRUE, sep = "\t")
+sat.full <- read.table("GWAS_input/GWAS-trait-input-example_v2.tsv", header = TRUE, sep = "\t")
 
 # extract trait names
 trait_names <- colnames(sat.full)[-1]
