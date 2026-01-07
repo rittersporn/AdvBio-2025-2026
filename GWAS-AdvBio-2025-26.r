@@ -1,6 +1,6 @@
 ##### Script for the GWAS analysis on L. sativa #####
 # source - https://github.com/SnoekLab/Dijkhuizen_etal_2025_Drone/tree/main
-# adjusted handling of input and output for the course purposes by Dmitry Lapin + ChatGPT 
+# adjusted handling of input and output for the course purposes + ChatGPT 
 
 ############################################
 ## Load required libraries
